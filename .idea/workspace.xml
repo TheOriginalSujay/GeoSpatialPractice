@@ -41,17 +41,17 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="307" />
-    <option name="y" value="122" />
-    <option name="width" value="1400" />
-    <option name="height" value="777" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="833" />
+    <option name="width" value="854" />
+    <option name="height" value="1017" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -63,7 +63,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -137,18 +136,19 @@
       <option name="presentableId" value="Default" />
       <updated>1551122021216</updated>
       <workItem from="1551122022974" duration="241000" />
-      <workItem from="1551213539728" duration="1637000" />
+      <workItem from="1551213539728" duration="2280000" />
+      <workItem from="1551287234067" duration="1909000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1878000" />
+    <option name="totallyTimeSpent" value="4430000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <frame x="833" y="0" width="854" height="1017" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1797066" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15113351" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
