@@ -1,10 +1,24 @@
 # credits to http://blog.thehumangeo.com/2014/05/12/drawing-boundaries-in-python/ for the code
 # this is just for familiarizing myself with some geographical border mapping logic
 
+from shapely.geometry import Point
+from shapely.geometry.polygon import Polygon
+import os
+import pandas as pd
+import geopandas as gpd
+from geopandas.geoseries import *
+from geopandas.geodataframe import *
+import fiona
+import matplotlib.pyplot as plt
 from shapely.ops import cascaded_union, polygonize
 from scipy.spatial import Delaunay
 import numpy as np
 import math
+
+
+
+
+
 
 def alpha_shape(points, alpha):
     """
